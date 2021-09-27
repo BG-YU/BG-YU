@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ### 어서오세요,
 ### 60대 개발자를 꿈꾸는 유병건입니다.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?BG-YU=BG-YU)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BG-YU)](https://github.com/anuraghazra/github-readme-stats)
