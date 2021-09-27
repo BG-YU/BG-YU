@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BG-YU/BG-YU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 어서오세요,
+### 60대 개발자를 꿈꾸는 유병건입니다.
